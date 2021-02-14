@@ -1,0 +1,3 @@
+- 16.09.2020. - 20 bodova, terminski plan nema. App: jako dobro, IEEE SRS: nema, ERA: ok, sitnice, AD: neispravno korišteni koncepti i ne odgovara app.
+- 08.05.2020. - 6 bodova: nedostaje tehnička dokumentacija
+- 14.03.2020. prijava projekta: U redu, malo je projekt većeg opsega ali vjerujem da vi to možete
